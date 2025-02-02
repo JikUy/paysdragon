@@ -48,3 +48,7 @@ effect @e[rm=225,r=300] poison 500 100 true
 effect @a[rm=225,r=300] poison 500 100 true
 effect @e[rm=225,r=300] poison 500 100 true
 
+camerashake add @a[r=100] 4 16 positional
+camerashake add @a[rm=100,r=200] 3 16 positional
+camerashake add @a[rm=200,r=300] 2 16 positional
+camerashake add @a[rm=300,r=500] 1 16 positional
