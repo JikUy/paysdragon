@@ -3,10 +3,10 @@ effect @e[r=300] mining_fatigue infinite 255 true
 effect @a[r=300] mining_fatigue infinite 255 true
 effect @e[r=300] mining_fatigue infinite 255 true
 
-effect @a[r=300] slowness 500 20 true
-effect @e[r=300] slowness 500 20 true
-effect @a[r=300] slowness 500 20 true
-effect @e[r=300] slowness 500 20 true
+effect @a[r=300] slowness 500 3 true
+effect @e[r=300] slowness 500 3 true
+effect @a[r=300] slowness 500 3 true
+effect @e[r=300] slowness 500 3 true
 
 effect @a[r=300] weakness infinite 255 true
 effect @e[r=300] weakness infinite 255 true
@@ -45,3 +45,6 @@ effect @e[rm=175,r=225] poison 600 255 true
 
 effect @a[rm=225,r=300] poison 500 100 true
 effect @e[rm=225,r=300] poison 500 100 true
+effect @a[rm=225,r=300] poison 500 100 true
+effect @e[rm=225,r=300] poison 500 100 true
+
