@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Nuke function to make so your bombs give effect",
+        "name": "§a§lPoison Function",
+        "uuid": "370ba0d7-83f5-4051-803b-9bcbc29a8eae",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 21, 23 ]
+    },
+    "modules": [
+        {
+            "description": "§r",
+            "type": "data",
+            "uuid": "3f45879a-0343-4fe4-9176-8171c5692cc2",
+            "version": [1, 0, 0 ]
+        }
+    ]
+}
